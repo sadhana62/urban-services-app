@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from '@/views/HomePage.vue';
 import Login from '@/views/UserLogin.vue';
-import Register from '@/views/Register.vue';
+import Register from '@/views/UserRegister.vue';
 import AdminDashboard from '@/views/AdminDashboard.vue';
 import CustomerDashboard from '@/views/CustomerDashboard.vue';
 import ProfessionalDashboard from '@/views/ProfessionalDashboard.vue';
